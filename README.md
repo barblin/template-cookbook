@@ -29,7 +29,7 @@ Code samples should be provided in a code section
 
 ```shell
 I am code, please execute me 
-´´´
+```
 
 ## Sources (o)
 Cite your sources. If you have used code or content of other pages or you reference knowledge from a book, then please provide the original sources. By providing references, you will allow readers to go into more detail about specific topics and also give credit to the original creator. 
