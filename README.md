@@ -14,7 +14,12 @@ By reading these instructions you will be able to create cookbooks yourself. If 
 - You know what a Cookbook is and what its purpose is
 
 ## How tu use?
-- Sections or content that is optional will be marked with (o)
+- Sections that are optional will be marked with (o)
+- All other sections have to be provided
+- Replace the text beneath each section with your own contribution
+- Stay concise
+- Always provide examples that are tested
+- The word Template in the headline must be replaced with the name of what tihs cookbook is about. Examples: Ansible Cookbook, Spring Boot Cookbook
 
 ## Examples
 A cookbook should always have examples. In this template we have separated the 'How to use?' section from the 'Examples' section. This is optional and should only demonstrate to the reader of this template that examples are important and necessary for a cookbook. The 'How to use?' section should either refer to examples in this section or should provide minimal examples itself. Therefore this section can be named 'Examples' or 'Additional Examples' or can be integrated in the 'How to use?' section. But Examples are mandatory.
