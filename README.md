@@ -18,6 +18,7 @@ By reading these instructions you will be able to create cookbooks yourself. If 
 ## How to use?
 - Sections that are optional will be marked with (o)
 - All other sections have to be provided by the creator
+- Add a specfic departement to the responsibility section
 - Replace the text beneath each section with your own contribution
 - Stay concise
 - Always provide examples that are tested
