@@ -25,6 +25,9 @@ By reading these instructions you will be able to create cookbooks yourself. If 
 - The word Template in the headline must be replaced with the name of what this cookbook is about. Examples: Ansible Cookbook, Spring Boot Cookbook
 - If possible, try to explain concepts and workflows with graphs or images.They help to transport complex ideas
 
+```Markdown
+![Dummy image](./figures/dummy.png)
+```
 ![Dummy image](./figures/dummy.png)
 
 ## Examples
@@ -37,7 +40,7 @@ I am code, please execute me
 ```
 
 ## Sources (o)
-Cite your sources. If you have used code or content of other pages or you reference knowledge from a book, then please provide the original sources. By providing references, you will allow readers to go into more detail about specific topics and also give credit to the original creator. 
+Cite your sources. If you have used code or content of other pages or you reference knowledge from a book, then please provide the original sources. By providing references, you will allow readers to go into more detail about specific topics and also give credit to the original creator.
 
 ## Related Topics (o)
 If this topic relates to other existing cookbooks, then please add the link here. This will help to interconnect the overall cookbook library and help users to navigate it more efficently.
