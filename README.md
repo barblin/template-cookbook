@@ -6,14 +6,14 @@
 Software Engineering
 
 ## Purpose
-This cookbook will serve as a template for future cookbooks and should provide guidance on how to structure, format and name the content of your cookbook.
+This cookbook will serve as a template for future cookbooks and should provide guidance on how to structure, format and name the content of your cookbooks.
 
 ## Results
 By reading these instructions you will be able to create cookbooks yourself. If you follow the guidelines, the cookbook will adhere to the minimum criteria to be accepted as a company cookbook.
 
 ## Preconditions
-- Knowledge of the Markdown language
-- You know what a Cookbook is and what its purpose is
+- Knowledge of the Markdown language.
+- You know what a Cookbook is and what its purpose is.
 
 ## How to use?
 - Sections that are optional will be marked with (o)
