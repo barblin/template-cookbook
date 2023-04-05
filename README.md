@@ -31,7 +31,7 @@ By reading these instructions you will be able to create cookbooks yourself. If 
 ![Dummy image](./figures/dummy.png)
 
 ## Examples
-A cookbook should always have examples. In this template we have separated the 'How to use?' section from the 'Examples' section. This is optional and should only demonstrate to the reader of this template that examples are important and necessary for a cookbook. The 'How to use?' section should either refer to examples in this section or should provide minimal examples itself. Therefore this section can be named 'Examples' or 'Additional Examples' or can be integrated in the 'How to use?' section. But examples are mandatory.
+A cookbook should always have examples. In this template, we have separated the 'How to use?' section from the 'Examples' section. This is optional and should only demonstrate to the reader of this template that examples are important and necessary for a cookbook. The 'How to use?' section should either refer to examples in this section or should provide minimal examples. Therefore this section can be named 'Examples' or 'Additional Examples' or can be integrated in the 'How to use?' section. But examples are mandatory.
 
 Code samples should be provided in a code section
 
