@@ -18,12 +18,12 @@ By reading these instructions you will be able to create cookbooks yourself. If 
 ## How to use?
 - Sections that are optional will be marked with (o)
 - All other sections have to be provided by the creator
-- Add a specfic departement to the responsibility section
+- Add a specific departement to the Responsibility section
 - Replace the text beneath each section with your own contribution
 - Stay concise
 - Always provide examples that are tested
 - The word Template in the headline must be replaced with the name of what this cookbook is about. Examples: Ansible Cookbook, Spring Boot Cookbook
-- If possible, try to explain concepts and workflows with graphs or images.They help to transport complex ideas
+- If possible, try to explain concepts and workflows with graphs or images. They help to transport complex ideas
 
 ```Markdown
 ![Dummy image](./figures/dummy.png)
